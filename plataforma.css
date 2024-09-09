@@ -1,6 +1,6 @@
 .btn-red {
-  background-color: red;
-  color: yellow;
+  background-color: red !important;
+  color: yellow !important;
   border: none;
   padding: 10px 20px;
   font-size: 16px;
@@ -9,5 +9,5 @@
 }
 
 .btn-red:hover {
-  background-color: darkred;
+  background-color: darkred !important;
 }
